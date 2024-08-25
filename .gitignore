@@ -5,3 +5,10 @@ env/
 upload_data.py
 genies-datasets.tar
 distributions/
+.venv/
+__pycache__/
+*.pyc
+
+# jypter notebook
+.ipynb_checkpoints/
+
